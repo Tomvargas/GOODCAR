@@ -1,5 +1,5 @@
-
 # Sistema de control de ventas
+
 <image src="image/goodcar.jpg" alt="goodcar">
 
 ## Opciones
